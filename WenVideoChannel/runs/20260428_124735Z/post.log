@@ -1,0 +1,9 @@
+[2026-04-28T14:47:35] Script: id=city-mornings-texture topic=city hook=sensory
+[2026-04-28T14:47:35] Query: city morning sunrise street
+[2026-04-28T14:47:36] Pexels returned 6 usable portrait clips
+[2026-04-28T14:47:42] Clips downloaded
+[2026-04-28T14:48:12] Built /Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/final.mp4
+[2026-04-28T14:48:12] Uploading to YouTube…
+[2026-04-28T14:48:15]   YT video id: uOq3dVrbYNo  status: private
+[2026-04-28T14:48:15] IG / Cloudinary creds missing — skipped Instagram.
+[2026-04-28T14:48:15] Done.

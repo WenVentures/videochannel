@@ -1,0 +1,6 @@
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm1.mp4'
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm2.mp4'
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm3.mp4'
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm4.mp4'
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm5.mp4'
+file '/Users/ClawAgent/src/WenVideoChannel/runs/20260428_124735Z/raw/norm6.mp4'

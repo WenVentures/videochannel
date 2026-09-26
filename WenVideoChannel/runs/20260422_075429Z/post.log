@@ -1,0 +1,9 @@
+[2026-04-22T09:54:29] Script: id=desert-stars topic=desert hook=command
+[2026-04-22T09:54:29] Query: desert night stars milky way
+[2026-04-22T09:54:29] Pexels returned 6 usable portrait clips
+[2026-04-22T09:54:31] Clips downloaded
+[2026-04-22T09:55:02] Built /Users/ClawAgent/src/WenVideoChannel/runs/20260422_075429Z/final.mp4
+[2026-04-22T09:55:02] Uploading to YouTube…
+[2026-04-22T09:55:06]   YT video id: DepoxU3liMw  status: private
+[2026-04-22T09:55:06] IG / Cloudinary creds missing — skipped Instagram.
+[2026-04-22T09:55:06] Done.
